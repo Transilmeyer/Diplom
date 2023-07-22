@@ -1,3 +1,4 @@
+#Павлов Олег 6-я когорта — Финальный проект. Инженер по тестированию плюс
 # Задание 1
 SELECT courier_login, COUNT(*) AS number_of_orders
 FROM orders

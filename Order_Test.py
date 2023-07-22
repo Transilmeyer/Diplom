@@ -1,3 +1,4 @@
+#Павлов Олег 6-я когорта — Финальный проект. Инженер по тестированию плюс
 import Sender_stand_requests
 import Data
 import requests
